@@ -1,0 +1,28 @@
+equipamentoPK,equipamentoNome,equipamentoDescricao,equipamentoCor,equipamentoTipo,equipamentoMoeda,equipamentoPreco
+1,monitor,monitor LCD LG 15 polegadas,preto,equip informatica,EUR,39.00
+2,monitor,monitor LCD ITAUTEC 19 polegadas,preto,equip informatica,BRL,180.20
+3,monitor,monitor LCD AOC 17 polegadas,preto,Eequip informatica,BRL,167.41
+5,,LENOVO THINKCENTRE MT-M W/ INTEL CORE 2 DUO @ 2.33 GHZ 2GB RAM 160GB HD,preto,equip informatica,BRL,2399.41
+6,,ITAUTEC INFOWAY SM 3322 W/ AMD PHENOM X2 8GB 320GB HD,,,,
+14,,PAUTA CONNECT BB8701A W/ MOBO ITAUTEC SM3322 AMD PHENOM X2 4GB 4HDS 320GB,preto,equip informatica,BRL,2554.85
+15,cadeira de escritorio,CADEIRA DE ESCRITORIO COM RODAS REVESTIDA EM TECIDO NA COR AZUL,azul,moveis,BRL,
+16,cadeira de escritorio,CADEIRA DE ESCRITORIO COM RODAS REVESTIDA EM TECIDO NA COR AZUL,,,BRL,577.16
+17,cadeira de escritorio,CADEIRA DE ESCRITORIO COM RODAS REVESTIDA EM TECIDO NA COR PRETA,preto,moveis,BRL,577.17
+18,cadeira de escritorio,CADEIRA DE ESCRITORIO COM RODAS REVESTIDA EM TECIDO NA COR AZUL,azul,moveis,BRL,577.18
+19,cadeira de escritorio,CADEIRA DE ESCRITORIO COM RODAS REVESTIDA EM TECIDO NA COR AZUL,,,,
+27,condicionador,CONDICIONADOR DE AR GREE GWCO9MA-DINNA3C/I 9000BTUS,branco,moveis,BRL,1599.00
+28,quadro-branco,QUADRO-BRANCO REVESTIDO EM FORMICA COM MOLDURA DE METAL 120X90CM,branco,moveis,BRL,134.99
+29,suporte gabinete,SUPORTE PARA GABINETE E ESTABILIZADOR REVESTIDO EM FORMICA,branco,moveis,BRL,139.90
+30,computador,HP PAVILION 20 ALL-IN-ONE PC INTEL CORE I3,preto,equip informatica,USD,350.00
+31,monitor,,preto,,BRL,650.00
+32,,,,equip informatica,BRL,650.00
+33,monitor,MONITOR HP L190HB 19 polegadas,branco,equip informatica,BRL,650.00
+37,computador,DELL INSPIRON INS-3470-M40 8A GERACÃO INTEL CORE I7,preto,equip informatica,USD,500.00
+38,roteador,ROTEADOR RE057 MULTILASER,branco,equip informatica,BRL,90.80
+39,roteador,ROTEADOR RE057 MULTILASER,preto,equip informatica,BRL,110.00
+40,cafeteira,CAFETEIRA BRITANIA 12 XICARAS,prata,eletrodomestico,BRL,144.36
+41,micro-ondas,FORNO DE MICRO-ONDAS ELECTROLUX MTO30 - 20L - BRANCO,branco,eletrodomestico,BRL,494.10
+42,geladeira,REFRIGERADOR ELECTROLUX DUPLEX DC35A 260L - BRANCO,branco,eletrodomestico,BRL,1949.00
+50,,,azul,ferramentas eletricas,BRL,313.20
+51,poltrona,,vermelho,moveis,BRL,845.50
+52,smartphone,XIAOMI MI A2 LITE 3GB RAM 32GB ARMAZENAMENTO ANDROID 9,,,USD,235.40
